@@ -7,7 +7,7 @@ int main() {
         printf("2^%d = %d\n", i, power);
         power *= 2;
     }
-    
     return 0;
 }
+
 
